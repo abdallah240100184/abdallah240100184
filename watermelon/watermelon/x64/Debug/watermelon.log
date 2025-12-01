@@ -1,0 +1,5 @@
+﻿  watermelon.cpp
+F:\hometasks\watermelon\watermelon.cpp(11,1): error C2059: syntax error: '}'
+F:\hometasks\watermelon\watermelon.cpp(11,1): error C2143: syntax error: missing ';' before '}'
+F:\hometasks\watermelon\watermelon.cpp(12,1): error C2143: syntax error: missing ';' before '{'
+F:\hometasks\watermelon\watermelon.cpp(12,1): error C2447: '{': missing function header (old-style formal list?)
